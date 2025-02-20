@@ -1,0 +1,5 @@
+# 请求数据
+uint8 mode
+---
+# 应答数据
+bool success

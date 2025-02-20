@@ -1,0 +1,28 @@
+{
+    "GaussianBlur_ksize": 5,
+    "GaussianBlur_sigmaX": 1.0,
+
+    "threshold_thresh": 195,
+    "threshold_maxval": 255,
+
+    "height_width_rate": 1.7,
+
+    "special_count_min": 180,
+    "special_count_max": 255,
+
+    "height_rate_avai_min": 0.82,
+    "height_rate_avai_max": 1.18,
+
+    "area_about_height_rate_min": 0.60,
+    "area_about_height_rate_max": 1.40,
+    "area_about_width_rate_min": 0.55,
+    "area_about_width_rate_max": 1.45,
+
+    "rotated_angle_about_delta_min": -5.0,
+    "rotated_angle_about_delta_max": 5.0,
+
+    "curr_std_rate_min": 0.8,
+    "curr_std_rate_max": 1.2,
+    "curr_hero_std_rate_min": 0.7,
+    "curr_hero_std_rate_max": 1.3
+}

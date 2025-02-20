@@ -1,0 +1,8 @@
+{
+    "video_paths": [
+        "/home/lenovo/ros2_ws/src/armor_detector/video/test1.avi",
+        "/home/lenovo/ros2_ws/src/armor_detector/video/test2.mp4",
+        "/home/lenovo/ros2_ws/src/armor_detector/video/test3.mp4",
+        "/home/lenovo/ros2_ws/src/armor_detector/video/output.avi"
+    ]
+}
